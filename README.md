@@ -81,7 +81,7 @@ Committed to writing clean, maintainable code and solving real-world problems wi
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">Flower App 🌸</h3>
+      <h3 align="center">Flower App </h3>
       <div align="center">
         <a href="https://github.com/elref7i/flower-app" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Flower+App" width="100%" alt="Flower App"/>
@@ -95,7 +95,7 @@ Committed to writing clean, maintainable code and solving real-world problems wi
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Fresh-Cart 🛒</h3>
+      <h3 align="center">Fresh-Cart </h3>
       <div align="center">
         <a href="https://ahmed-usama12.github.io/freashmark-react/" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Fresh-Cart" width="100%" alt="Fresh-Cart"/>
@@ -114,7 +114,7 @@ Committed to writing clean, maintainable code and solving real-world problems wi
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Online Exam 📝</h3>
+      <h3 align="center">Online Exam </h3>
       <div align="center">
         <a href="https://github.com/Ahmed-usama12/exam-app" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Online+Exam" width="100%" alt="Online Exam"/>
@@ -128,7 +128,7 @@ Committed to writing clean, maintainable code and solving real-world problems wi
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Yummy 🍲</h3>
+      <h3 align="center">Yummy Food</h3>
       <div align="center">
         <a href="https://ahmed-usama12.github.io/js_exam/" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Yummy+App" width="100%" alt="Yummy App"/>
